@@ -1,0 +1,50 @@
+{
+  "Donations": [
+    {
+      "Amount": 502.0,
+      "Date": "2024-01-19T15:11:54.2972069+05:00",
+      "AdditionalInfo": ""
+    },
+    {
+      "Amount": 4.0,
+      "Date": "2024-01-19T15:44:49.8133871+05:00",
+      "AdditionalInfo": "d"
+    },
+    {
+      "Amount": 123.0,
+      "Date": "2024-01-19T15:45:53.7362134+05:00",
+      "AdditionalInfo": "asdfg"
+    },
+    {
+      "Amount": 123.0,
+      "Date": "2024-01-19T15:46:13.1809963+05:00",
+      "AdditionalInfo": "qwertgyh"
+    },
+    {
+      "Amount": 1.0,
+      "Date": "2024-01-19T15:46:20.9511375+05:00",
+      "AdditionalInfo": "ee"
+    },
+    {
+      "Amount": 45.0,
+      "Date": "2024-01-19T15:46:32.4926891+05:00",
+      "AdditionalInfo": "asd"
+    },
+    {
+      "Amount": 152.0,
+      "Date": "2024-01-19T16:00:46.5586216+05:00",
+      "AdditionalInfo": "sdf"
+    },
+    {
+      "Amount": 123.0,
+      "Date": "2024-01-19T16:13:07.6944811+05:00",
+      "AdditionalInfo": "dfgfd"
+    },
+    {
+      "Amount": 500.0,
+      "Date": "2024-01-19T16:14:45.8584653+05:00",
+      "AdditionalInfo": "fghj"
+    }
+  ],
+  "WalletBalance": 10000.0
+}
